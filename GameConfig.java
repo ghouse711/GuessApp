@@ -1,4 +1,6 @@
 import java.util.*;
+import java.io.*;
+
 public class GameConfig{
 
 	private final int MIN = 1;

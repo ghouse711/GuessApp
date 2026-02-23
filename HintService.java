@@ -1,4 +1,5 @@
 import java.util.*;
+import java.io.*;
 
 /*
 * Generates hints based on number of incorrect attempts made by player 

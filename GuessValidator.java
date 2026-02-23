@@ -1,4 +1,5 @@
 import java.util.*;
+import java.io.*;
 
 /*
 * Compares user's guesses with target
