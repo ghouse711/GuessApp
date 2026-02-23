@@ -1,5 +1,9 @@
 import java.util.*;
 
+/*
+* Generates hints based on number of incorrect attempts made by player 
+*/
+
 public class HintService{
 	
 	public static String generateHint (int target, int hintCount){

@@ -4,7 +4,7 @@ public class GameConfig{
 	private final int MIN = 1;
 	private final int MAX = 100;
 	private final int MAX_ATTEMPTS = 7;
-	private final int MAX_HINTS = 3;
+	private final int MAX_HINTS = 2;
 	
 	int targetNumber;
 	
