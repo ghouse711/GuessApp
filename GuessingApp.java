@@ -1,13 +1,16 @@
 /*
 
-* Guessing App - UC2: User Guess Submission
+* Guessing App - UC3: User Guess Submission
 * Initializes Game
 * Accepts user guesses
 * Validate guesses
 * Stop when game ends
 
+* Added Hint generation logic
+* Isolated now to avoid cluttering the main game flow.
+
 * @author Developer
-* @version 2.0
+* @version 3.0
 
 */
 
